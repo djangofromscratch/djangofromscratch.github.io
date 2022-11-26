@@ -1,4 +1,4 @@
-## Where does the application start?
+## Django: Where does the application start?
 
 The key to understand any kind of application is to know where does it start. Until then you'll keep banging your head, shooting in the dark and lastly, at the mercy of Google when trying to debug or solve any issues you have.
 
