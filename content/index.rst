@@ -1,60 +1,11 @@
-LESSON NAME
+Django From Scratch
 ===========
 
-Intro
-
-
-
-.. prereq::
-
-   prerequisites
-
-
-
-.. csv-table::
-   :widths: auto
-   :delim: ;
-
-   20 min ; :doc:`filename`
-
+Welcome to From Scratch tutorials series.
 
 .. toctree::
    :maxdepth: 1
-   :caption: The lesson
+   :caption: Tutorials
 
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Reference
-
-   quick-reference
-   guide
-
-
-
-.. _learner-personas:
-
-Who is the course for?
-----------------------
-
-
-
-
-
-About the course
-----------------
-
-
-
-
-
-
-See also
---------
-
-
-
-
-
-Credits
--------
+   django
+   virtualenv

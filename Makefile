@@ -22,3 +22,6 @@ help:
 # Live reload site documents for local development
 livehtml:
 	sphinx-autobuild "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
+
+install:
+	pip install --user -r requirements.txt

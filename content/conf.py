@@ -17,10 +17,10 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "LESSON NAME"
-copyright = "2020, The contributors"
-author = "The contributors"
-github_user = "coderefinery"
+project = "Django From Scratch"
+copyright = "2022, Kamal Mustafa"
+author = "Kamal Mustafa"
+github_user = "k4ml"
 github_repo_name = ""  # auto-detected from dirname if blank
 github_version = "main"
 conf_py_path = "/content/"  # with leading and trailing slash
