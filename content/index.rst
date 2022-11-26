@@ -9,3 +9,4 @@ Welcome to From Scratch tutorials series.
 
    django
    virtualenv
+   django-start
